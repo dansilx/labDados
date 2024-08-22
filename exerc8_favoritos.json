@@ -1,0 +1,26 @@
+[
+{
+  "_id": {
+    "$oid": "6557ef6ede634a52bcacfdcf"
+  },
+  "video": "Video 1",
+  "duracao": 150,
+  "usuario": "Marcos"
+},
+{
+  "_id": {
+    "$oid": "6557f066de634a52bcacfdd0"
+  },
+  "video": "Video 2",
+  "duracao": 140,
+  "usuario": "Marcos"
+},
+{
+  "_id": {
+    "$oid": "6557f075de634a52bcacfdd1"
+  },
+  "video": "Video 1",
+  "duracao": 150,
+  "usuario": "Ana"
+}
+]

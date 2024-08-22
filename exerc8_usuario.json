@@ -1,0 +1,45 @@
+[
+{
+  "_id": {
+    "$oid": "654eb1bf5e4f1d94b6ce922b"
+  },
+  "nome": "Marcos",
+  "foto": "marcos.jpg",
+  "data_criacao": {
+    "$date": "2023-11-10T22:42:07.643Z"
+  },
+  "endereco": {
+    "cidade": "Presidente Prudente",
+    "estado": "SP"
+  },
+  "qtd_filmes": 5,
+  "nivel": [ 0, 1 ]
+},
+{
+  "_id": {
+    "$oid": "654eb2e15e4f1d94b6ce922c"
+  },
+  "nome": "Ana",
+  "foto": "ana.jpg",
+  "data_criacao": {
+    "$date": "2023-11-10T22:46:57.455Z"
+  },
+  "endereco": {
+    "cidade": "Presidente Bernardes",
+    "estado": "SP"
+  },
+  "qtd_filmes": 10,
+  "nivel": [ 0, 1, 2 ]
+},
+{
+  "_id": {
+    "$oid": "6557ee82de634a52bcacfdcc"
+  },
+  "nome": "Lucas",
+  "endereco": {
+    "cidade": "Londrina",
+    "estado": "PR"
+  },
+  "avaliacao": "7.5"
+}
+]
